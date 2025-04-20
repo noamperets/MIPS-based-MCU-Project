@@ -1,7 +1,6 @@
 # MIPS-Based MCU Architecture and Design
 
 Final project for the Advanced Microprocessor Architecture and Hardware Accelerators Lab Course 
-👨‍💻 By: Noam Perets & Noam Vaknin
 
 ## 📘 Project Overview
 
