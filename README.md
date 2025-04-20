@@ -8,7 +8,7 @@ Final project for the Advanced Microprocessor Architecture and Hardware Accelera
 This project implements a **Microcontroller Unit (MCU)** architecture based on a MIPS CPU core.  
 The design includes peripherals such as a basic timer, GPIO, interrupt controller, and an optimized address decoder — all written in VHDL.
 
-📝 For full documentation and RTL schematics, see the [PDF Report](./final.pdf).
+📝 For full documentation and RTL schematics, see the [PDF Report](./DOC/final.pdf).
 
 ## 📁 Project Structure
 
